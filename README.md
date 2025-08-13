@@ -1,4 +1,4 @@
-# Carotid Artery Segmentation with nnU-Net
+# Carotid Artery Segmentation with nnU-Net - [Full Project Link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155193168_link_cuhk_edu_hk/EY_BV3P8sshHkCFoj8PdpwUBedkTSfoz1xC8Kp_NKjTTdA?e=BHogzd)
 
 This project uses nnU-Net to automatically segment carotid arteries from 2D ultrasound images.
 
